@@ -1,0 +1,63 @@
+.App {
+    height: 100%;
+    width: 100%;
+    padding-top: 25px;
+    background-color: #1b1b32;
+    font-family: Lato, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.box-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1b1b32;
+
+}
+
+.text-title{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(35, 142, 199);
+    font-size: 50px;
+    font-style: oblique;
+    padding-top: 20px ;
+    
+}
+
+.emoji {
+    height: 60px;
+    border-radius: 15px;
+    margin-left: 20px;
+    
+    
+}
+
+.box-calculator {
+    width: 400px;
+    height: 600px;
+    padding: 14px;
+    background-color: #99c9ff;
+    border-radius: 20px;
+    border: 5px solid white;
+
+}
+
+.row {
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #99c9ff;
+}
+
+.box-titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1b1b32;
+    color: rgb(35, 142, 199);
+}
